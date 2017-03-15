@@ -1,0 +1,32 @@
+{
+  "name": "single-file-learning",
+  "version": "0.0.1",
+  "description": "Learn (OR Understand) something through a single file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoukekestar/single-file-learning.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "zhoukekestar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhoukekestar/single-file-learning/issues"
+  },
+  "homepage": "https://github.com/zhoukekestar/single-file-learning#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-html": "^2.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-pug": "^1.0.0",
+    "eslint-plugin-react": "^6.9.0"
+  }
+}
