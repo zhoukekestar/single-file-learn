@@ -1,7 +1,7 @@
 # Promise
-* [Document](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [Document by MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise), [Document By ruanyifeng](http://es6.ruanyifeng.com/#docs/promise)
 * [Timeout VS Promise](https://zhuanlan.zhihu.com/p/25407758?utm_source=tuicool&utm_medium=referral)
-* [EventLoop on MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/EventLoop), [EventLoop Talk](https://webapplog.com/event-loop/)
+* [EventLoop on MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/EventLoop), [EventLoop Talk](https://webapplog.com/event-loop/), [EventLoop on nodejs](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 * [tasks microtasks queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 ```js
 const promise = (time, err) => (
